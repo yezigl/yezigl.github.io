@@ -26,3 +26,5 @@ window.open("http://www.test.com", "_blank"); //注意第二个参数
 4. framename参数可以设置为当前页面内的frame的name值、新窗口的name值，或者新标签的name值。
 
 [原文地址](http://blog.163.com/lgh_2002/blog/static/44017526201341421016895)
+
+[window.open介绍](http://www.w3school.com.cn/jsref/met_win_open.asp)
