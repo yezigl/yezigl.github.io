@@ -15,3 +15,5 @@ jar -uvf charles.jar com/xk72/charles/gui/Licence*
 5、用新获得的charles.jar替换安装目录中的jar
 
 done
+
+适用于3.9，最新版不适用
